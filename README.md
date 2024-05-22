@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hello I'm kimgeon!'s%20Profile&section=header&fontAlignY=40&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=kimgeon!'s%20Profile&section=header&fontAlignY=40&fontSize=80)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave)
 
