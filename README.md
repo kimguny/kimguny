@@ -4,6 +4,13 @@
 
 <div align=center>
 
+  ## <center>Editer</center>
+  
+  <p align="center">
+    <img src = "https://img.shields.io/badge/VSCODE-2E9AFE.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+    <img src = "https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black">
+  </p>
+
   ## <center>Backend</center>
   
   <p align="center">
@@ -16,10 +23,16 @@
   ## <center>Frontend</center>
   
   <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
+  </p>
+
+  ## <center>Game</center>
+  
+  <p align="center">
+    <img src = "https://img.shields.io/badge/C%23-BF00FF?style=for-the-badge&logo=Csharp&logoColor=white">
   </p>
 
   ***
