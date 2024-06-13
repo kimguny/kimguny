@@ -47,7 +47,7 @@
   ***
 
   ### 언어 사용량
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny)](https://github.com/kimguny/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
 
 </div>
 
