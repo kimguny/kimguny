@@ -1,7 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=kimgeon!'s%20Profile&section=header&fontAlignY=40&fontSize=80)
-
-
 <div align=center>
 
   ### <center>Editer</center>
@@ -50,7 +46,3 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact)
 
 </div>
-
-***
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer)
