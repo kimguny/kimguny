@@ -37,11 +37,6 @@
 
   ***
 
-  ### 백준 티어
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimguny12)](https://solved.ac/kimguny12)
-  
-  ***
-
   ### 언어 사용량
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact)
 
