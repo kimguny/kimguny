@@ -24,12 +24,6 @@
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
   </p>
 
-  ### <center>Game</center>
-  
-  <p align="center">
-    <img src = "https://img.shields.io/badge/C%23-BF00FF?style=for-the-badge&logo=Csharp&logoColor=white">
-  </p>
-
   ***
 
   ### GitHub stats
