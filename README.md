@@ -4,7 +4,6 @@
   
   <p align="center">
     <img src = "https://img.shields.io/badge/VSCODE-2E9AFE.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-    <img src = "https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black">
   </p>
 
   ### <center>Backend</center>
