@@ -5,30 +5,15 @@
 
 <!-- 타이핑 애니메이션 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD4F7&center=true&vCenter=true&width=500&lines=Backend+%26+Frontend+Developer;Python+%7C+Go+%7C+React+%7C+Next.js;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD4F7&center=true&vCenter=true&width=500&lines=Backend+%26+Frontend+Developer;Python+%7C+Go+%7C+React+%7C+Next.js;Always+learning+new+things" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ---
 
-<!-- 2단 레이아웃 -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117)
-
-    </td>
-    <td width="50%" valign="top">
-
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117)
-
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" height="165"/>
 
 ---
 
