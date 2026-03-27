@@ -12,34 +12,22 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact" height="165"/>
 
 ---
 
 ### Tech Stack
 
-**Editor**
-
 <p>
-  <img src="https://img.shields.io/badge/VSCODE-2E9AFE.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-2E9AFE?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 </p>
 
 ---
