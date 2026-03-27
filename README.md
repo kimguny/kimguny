@@ -31,6 +31,15 @@
 ### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimguny&theme=react-dark&hide_border=true&bg_color=0D1117&color=6AD4F7&line=6AD4F7&point=ffffff)
 
+### Snake
+![Snake dark](https://raw.githubusercontent.com/kimguny/kimguny/output/github-contribution-grid-snake-dark.svg)
+
+### 3D Contribution Graph
+![3D Contrib](./profile-3d-contrib/profile-south-season-animate.svg)
+
+### Dev Jokes
+![Jokes](https://readme-jokes.vercel.app/api?theme=synthwave)
+
 <!-- 하단 웨이브 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
