@@ -10,13 +10,6 @@
 
 <br/>
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact" height="165"/>
-
----
-
 ### Tech Stack
 
 <p>
@@ -30,7 +23,10 @@
   <img src="https://img.shields.io/badge/VSCode-2E9AFE?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 </p>
 
----
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact" height="165"/>
 
 ### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimguny&theme=react-dark&hide_border=true&bg_color=0D1117&color=6AD4F7&line=6AD4F7&point=ffffff)
