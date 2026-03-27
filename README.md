@@ -23,10 +23,9 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
 </p>
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact" height="165"/>
+| GitHub Stats | Top Languages | Dev Jokes |
+|:---:|:---:|:---:|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact) | ![Jokes](https://readme-jokes.vercel.app/api?theme=synthwave) |
 
 ### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimguny&theme=react-dark&hide_border=true&bg_color=0D1117&color=6AD4F7&line=6AD4F7&point=ffffff)
@@ -36,9 +35,6 @@
 
 ### 3D Contribution Graph
 ![3D Contrib](./profile-3d-contrib/profile-south-season-animate.svg)
-
-### Dev Jokes
-![Jokes](https://readme-jokes.vercel.app/api?theme=synthwave)
 
 <!-- 하단 웨이브 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
