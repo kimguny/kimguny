@@ -24,10 +24,8 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
 </p>
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact" height="165"/> -->
 
 ### Snake
 ![Snake](https://raw.githubusercontent.com/kimguny/kimguny/output/github-contribution-grid-snake.svg)
