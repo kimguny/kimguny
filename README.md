@@ -27,7 +27,6 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=kimguny&show_icons=true&theme=synthwave" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimguny&layout=compact" height="165"/> -->
 
-### Snake
 ![Snake](https://raw.githubusercontent.com/kimguny/kimguny/output/github-contribution-grid-snake.svg)
 
 <!-- 하단 웨이브 배너 -->
